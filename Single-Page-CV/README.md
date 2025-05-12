@@ -1,6 +1,6 @@
 # Single Page CV
 
-This is a simple **single-page resume (CV)** built with HTML, CSS, and optionally JavaScript.  
+This is a simple **single-page resume (CV)** built with HTML, CSS.  
 All information provided in the project is **fictional** and used for demonstration purposes only.
 
 ## 🧾 Features
